@@ -49,7 +49,7 @@ class ContactData extends Component {
                 validation: {
                     required: true,
                     minLength: 5,
-                    maxLength: 5,
+                    maxLength: 6,
                     isNumeric: true
                 },
                 valid: false,
